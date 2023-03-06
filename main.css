@@ -1,0 +1,60 @@
+ul {
+    font-size: 18px;
+    width: 80%;
+}
+li {
+    width: 50%;
+}
+.btnGroupVerticalSend {
+    width: 80%;
+}
+.uploadFromTxtFileBtn {
+    font-size: 14px;
+}
+form {
+    width: 100%;
+}
+#inputTxt {
+    font-size: 16px; 
+    height: 300px; 
+    border: 1px solid #212529; 
+    border-top-left-radius: 1px; 
+    border-top-right-radius: 1px; 
+    border-bottom-left-radius: 1px; 
+    border-bottom-right-radius: 1px; 
+    border-bottom: none; 
+    border-top: none; 
+    resize: none;
+}
+.sendBtn {
+    font-size: 18px;
+    width: 100%; 
+    border-top-left-radius: 1px; 
+    border-top-right-radius: 1px;
+}
+.btnGroupReceive {
+    width: 80%;
+}
+.btnGroupVerticalReceive {
+    width: 80%;
+}
+#output {
+    font-size: 16px; 
+    height: 300px; 
+    border: 1px solid #212529; 
+    border-top-left-radius: 1px; 
+    border-top-right-radius: 1px; 
+    border-bottom-left-radius: 1px; 
+    border-bottom-right-radius: 1px; 
+    border-top: none; 
+    border-bottom: none; 
+    resize: none;
+}
+.receiveBtn {
+    font-size: 18px;
+    border-top-left-radius: 1px; 
+    border-top-right-radius: 1px;
+}
+#input {
+    border: 1px solid #6F7174;
+}
